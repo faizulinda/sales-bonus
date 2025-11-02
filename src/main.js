@@ -4,6 +4,7 @@
  * @param _product карточка товара
  * @returns {number}
  */
+
 function calculateSimpleRevenue(purchase, _product) {
    // @TODO: Расчет выручки от операции
    const salePrice = purchase.sale_price;
